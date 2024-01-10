@@ -1,10 +1,12 @@
-# TLDRIFY
+# TLDRIFYY
 
-AI content summarizer, summarizes articles as well as website in a single paragraph.
+AI Content Summarizer, summarizes articles, websites in a single paragraph.
 
-### Tech Stack
+## Tech Stack
 
 Front-End - ReactJs\
 Api - RapidApi, ReduxJs-Toolkit
 
-### Snap
+## Snapshot
+
+![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.png)
