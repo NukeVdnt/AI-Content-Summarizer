@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("#");
+            window.open("https://github.com/NukeVdnt/Tldrifyy");
           }}
           className="black_btn"
         >
