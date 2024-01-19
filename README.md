@@ -9,4 +9,4 @@ Api - RapidApi, ReduxJs-Toolkit
 
 ## Snapshot
 
-![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.png)
+![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.webp)
