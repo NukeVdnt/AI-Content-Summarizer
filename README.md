@@ -4,7 +4,7 @@ AI Content Summarizer, summarizes articles, websites in a single paragraph.
 
 ## Tech Stack
 
-Front-End - ReactJs\
+Front-End - ReactJs, Tailwindcss, Css\
 Api - RapidApi, ReduxJs-Toolkit
 
 ## Snapshot
