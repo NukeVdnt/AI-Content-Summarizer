@@ -5,15 +5,15 @@ This React-based application leverages the power of RapidAPI's AI content summar
 ## Proof of Work
 <video src="https://github.com/user-attachments/assets/a81e4afa-4154-4fd3-a22d-3d576232e297" width="400" height=auto controls></video>
 
-## Snapshot
-
-![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.webp)
-
 ## Usage 
 
 - Input Text: Paste or type the text you want to summarize into the provided input field.
 - Generate Summary: Click the "Summarize" button to trigger the API call and generate the summary.
 - View Summary: The generated summary will be displayed below the input field.
+
+## Snapshot
+
+![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.webp)
 
 ## Tech Stack
 
