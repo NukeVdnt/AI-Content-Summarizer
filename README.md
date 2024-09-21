@@ -2,6 +2,9 @@
 
 This React-based application leverages the power of RapidAPI's AI content summarization API to provide users with concise summaries of lengthy text passages. By inputting a link to article, users can generate a summary that captures the key points and ideas without sacrificing essential information.
 
+## Proof of Work
+<video src="https://github.com/user-attachments/assets/a81e4afa-4154-4fd3-a22d-3d576232e297" width="400" height=auto controls></video>
+
 ## Snapshot
 
 ![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.webp)
