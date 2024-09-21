@@ -11,6 +11,11 @@ This React-based application leverages the power of RapidAPI's AI content summar
 - Generate Summary: Click the "Summarize" button to trigger the API call and generate the summary.
 - View Summary: The generated summary will be displayed below the input field.
 
+## Features
+- Intuitive User Interface: A user-friendly interface allows for easy input and output of text.
+- RapidAPI Integration: Seamlessly integrates with RapidAPI's AI content summarization API for accurate and efficient summaries.
+  
+
 ## Snapshot
 
 ![home page](https://github.com/NukeVdnt/Tldrifyy/blob/main/src/snaps/poc.webp)
